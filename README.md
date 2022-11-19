@@ -1,1 +1,1 @@
-[lol](https://www.typescriptlang.org/)
+[Type Script ](https://www.typescriptlang.org/)
