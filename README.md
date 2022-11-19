@@ -4,7 +4,7 @@
 Liens utiles :
 
                 -Html Css : https://openclassrooms.com/fr/courses/1603881-creez-votre-site-web-avec-html5-et-css3/1604192-decouvrez-le-fonctionnement-des-sites-web
-                -Type scriptt href="https://www.typescriptlang.org/" 
+                <a href="https://www.typescriptlang.org/" target=Typescript</a> 
                 -React : https://fr.reactjs.org/
                 -Router pour le singlepage : https://v5.reactrouter.com/web/guides/quick-start
                 -Hash des passwords : https://github.com/kelektiv/node.bcrypt.js
