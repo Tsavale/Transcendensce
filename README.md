@@ -1,8 +1,4 @@
 # Transcendensce
-
-
-Liens utiles :
-
                 -Html Css : https://openclassrooms.com/fr/courses/1603881-creez-votre-site-web-avec-html5-et-css3/1604192-decouvrez-le-fonctionnement-des-sites-we
                  [Type script](https://www.typescriptlang.org/)
                 -React : https://fr.reactjs.org/
