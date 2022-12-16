@@ -13,3 +13,9 @@ liens utiles
 [Validation font et back](https://github.com/jquense/yup)  
 [socket chat](https://socket.io/)  
 [3d pour le pong](https://threejs.org/)  
+
+
+
+
+
+[ET BIEN SUR LE BOSS](https://chat.openai.com/chat)
